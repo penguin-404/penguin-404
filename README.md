@@ -1,10 +1,32 @@
-<h1 align="center">Hi 👋, I'm Kaushal</h1>
-- 📫 How to reach me **klovestocode@gmail.com**
+# Hi there, I'm Kaushal! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imkaushal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imkaushal_" height="30" width="40" /></a>
-</p>
+🎓 **Computer Engineering Student | 💻 JavaScript & React Developer**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+Welcome to my GitHub profile! I'm an aspiring computer engineer passionate about developing dynamic and user-centric web applications.
+
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript (ES6+), HTML, CSS
+- **Frameworks & Libraries:** React.js, Node.js
+- **Tools:** Git, npm
+- **Databases:** MongoDB, MySQL
+
+## 🚀 Projects
+- **[Job Recommendation and Bidding Application]([Link to Project Repository](https://github.com/penguin-404/seeker))**: The Job Recommendation and Bidding Application matches job postings with suitable candidates using cosine similarity and allows users to bid on jobs based on posted salaries. Developed with Django, MySQL, and HTML/CSS/JavaScript, it streamlines the job search and hiring process.
+
+## 🌱 Currently Learning
+- Advanced React patterns and hooks
+- State management with Redux
+- TypeScript
+
+## 📫 Let's Connect!
+- [LinkedIn]([Your LinkedIn Profile URL](https://www.linkedin.com/in/imkaushall/))
+- [Twitter]([Your Twitter Profile URL](https://x.com/imkaushal_))
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and get in touch. Let's build something amazing together!
+```
+
+This version keeps the information concise while still highlighting your key skills, projects, and ways to connect with you. Replace the placeholders with your actual information to personalize it.
