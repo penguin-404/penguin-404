@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm an aspiring computer engineer passionate about
 - TypeScript
 
 ## 📫 Let's Connect!
-- [LinkedIn]([Your LinkedIn Profile URL](https://www.linkedin.com/in/imkaushall/))
-- [Twitter]([Your Twitter Profile URL](https://x.com/imkaushal_))
+- ([LinkedIn](https://www.linkedin.com/in/imkaushall/))
+- ([X](https://x.com/imkaushal_))
 
 ---
 
