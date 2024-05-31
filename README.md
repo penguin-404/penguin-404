@@ -27,6 +27,3 @@ Welcome to my GitHub profile! I'm an aspiring computer engineer passionate about
 ---
 
 Thanks for stopping by! Feel free to check out my repositories and get in touch. Let's build something amazing together!
-```
-
-This version keeps the information concise while still highlighting your key skills, projects, and ways to connect with you. Replace the placeholders with your actual information to personalize it.
