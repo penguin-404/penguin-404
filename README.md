@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an aspiring computer engineer passionate about
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript (ES6+), HTML, CSS
-- **Frameworks & Libraries:** React.js, Node.js
+- **Frameworks & Libraries:** React.js, Node.js, Next.js
 - **Tools:** Git, npm
 - **Databases:** MongoDB, MySQL
 
