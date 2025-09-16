@@ -1,6 +1,6 @@
 # Hi there, I'm Kaushal! 👋
 
-🎓 **Computer Engineering Student | 💻 JavaScript & React Developer**
+🎓 **Computer Engineer | 💻 JavaScript & React Developer**
 
 ---
 
